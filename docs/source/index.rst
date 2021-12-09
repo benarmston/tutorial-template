@@ -31,3 +31,4 @@ Contents
 
    usage
    api
+   nested/page

@@ -9,21 +9,6 @@ This is a test Sphinx (aka Read the docs) repo to test with Flight Hub.  There i
 * [ ] Integrate the built HTML into the hub layout.  Currently; its entirely separate.
 * [ ] Support markdown in this description.
 
-Old content
------------
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
 Contents
 --------
 
